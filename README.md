@@ -82,4 +82,5 @@ You can adjust the following settings in the `.env` file:
 
 ## License
 
-[Add your license information here] 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
